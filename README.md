@@ -1,3 +1,5 @@
-# Copyright and License
+## Used as the Harvard-Westlake Boxing Club's Website template.
+
+## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
