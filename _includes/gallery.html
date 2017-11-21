@@ -13,5 +13,12 @@
               <img class="d-block img-fluid w-100" src="img/slide-3.jpg" alt="">
             </div>
             
-            
+   {% for image in site.static_files %}
+        {% if image.path contains 'img/gallery/' %}
+             <div class="carousel-item active">
+              <img class="d-block img-fluid w-100" src="{{ site.url }}{{ image.path }}" alt="">
+            </div>
+
+        {% endif %}
+    {% endfor %}
 </div>
