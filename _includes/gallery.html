@@ -1,7 +1,0 @@
-{% for image in site.static_files %}
-    {% if image.path contains 'img/gallery/' %}
-         <div class="carousel-item active">
-            <img class="d-block img-fluid w-100" src="{{ site.url }}{{ image.path }}" alt="">
-         </div>
-    {% endif %}
-{% endfor %}
