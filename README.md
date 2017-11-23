@@ -1,6 +1,6 @@
 ## Used as the Harvard-Westlake Boxing Club's Website template.
 
-## View the finished product right (here)[http://hwboxing.com].
+## View the finished product here at http://hwboxing.com.
 
 ## Copyright and License
 
